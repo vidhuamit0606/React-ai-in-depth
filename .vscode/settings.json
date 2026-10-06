@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.customGlyphs": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorStyleInactive": "none",
+    "terminal.integrated.gpuAcceleration": "off",
+    "terminal.integrated.minimumContrastRatio": 1
+}

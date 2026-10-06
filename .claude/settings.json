@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/Users/DELL/code/angular-ai-in-depth/**)",
+      "Write(/Users/DELL/code/angular-ai-in-depth/**)",
+      "Bash(*)"
+    ]
+  },
+  "enabledMcpjsonServers": ["context7"]
+}
